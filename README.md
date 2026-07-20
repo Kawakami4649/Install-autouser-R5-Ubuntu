@@ -284,12 +284,7 @@ DeltaChat の「Scan Invitation Code」で読み込むだけで利用開始で�
 
 ---
 
-## ライセンス
 
-```
-© 2026 e-POST Inc.
-All rights reserved.
-```
 
 ## 用途
 
